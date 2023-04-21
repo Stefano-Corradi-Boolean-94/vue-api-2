@@ -1,0 +1,19 @@
+body{
+  padding-bottom: 200px;
+}
+
+.rosso{
+  color: red;
+}
+.verde{
+  color: green;
+}
+.blu{
+  color:blue
+}
+.maiuscolo{
+  text-transform: uppercase;
+}
+.sottolineato{
+  text-decoration: underline;
+}
